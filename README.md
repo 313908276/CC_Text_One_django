@@ -1,0 +1,2 @@
+# CC_Text_One_django
+刘聪学习Python_Django
